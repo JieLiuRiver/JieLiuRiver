@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Liujie He</h1>
-<h5 align="center">Passionate full stack developer with expertise in front-end technologies like React, Vue and Angular, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<h4 align="center">Passionate full stack developer with expertise in front-end technologies like React, Vue and Angular, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h4>
 
 <h2 align="left">Connect with me:</h3>
 
