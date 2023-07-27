@@ -5,7 +5,7 @@
 <h2 align="left">Recent:</h3>
 <ul>
   <li>
-     Learning how to develop Next.js applications and recently built an Airbnb clone. <a href="https://airbnb-clone-tan-five.vercel.app/">Access production link</a> and <a href="https://github.com/JieLiuRiver/airbnb_clone">Github</a>.
+     Develop Next.js applications built an Airbnb clone. <a href="https://airbnb-clone-tan-five.vercel.app/">Access production link</a> and <a href="https://github.com/JieLiuRiver/airbnb_clone">Github</a>.
   </li>
 </ul>
 
