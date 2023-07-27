@@ -2,6 +2,14 @@
 <h1 align="center">Hi 👋, I'm Liujie He</h1>
 <h4 align="center">Passionate full stack developer with expertise in front-end technologies like React, Vue and Angular, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h4>
 
+<h2 align="left">Recent:</h3>
+<ul>
+  <li>
+     Learning how to develop Next.js applications and recently built an Airbnb clone. Check it out here: https://airbnb-clone-tan-five.vercel.app/
+  </li>
+</ul>
+
+
 <h2 align="left">Connect with me:</h3>
 
 <ul>
